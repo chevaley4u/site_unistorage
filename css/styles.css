@@ -11300,6 +11300,15 @@ p {
   line-height: 1.75;
 }
 
+#sectionTeam{
+  color: white;
+  background-image: url("../assets/img/rERvMf.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
 .page-section {
   padding: 6rem 0;
 }
